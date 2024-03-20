@@ -1,4 +1,4 @@
-### 👋 I'm Sara, and aspiring Business Intelligence Analyst
+### 👋 I'm Sara, an aspiring Business Intelligence Analyst
 
 - 🔭 I’m currently working on achieving a certificate in Business Intelligence Analytics from TripeTen.
 - 🌱 I’m currently learning technical skills in data analysis, SQL, Tableau, and Powe BI. 
