@@ -7,4 +7,4 @@
 - 💬 Ask me about my Cattle Dog 🐕
 - ⚡ Fun fact: Before entering the world of data, I studied in the fashion industry in NYC then worked as a mental health therapist in Pittsburgh schools. 
 
-Feel free to each me on GitHub or 🔗<a href='www.linkedin.com/in/sara-kaempf' target=_blank><u>LinkedIn</u>.</a></p>
+Feel free to reach me on GitHub or 🔗<a href='www.linkedin.com/in/sara-kaempf' target=_blank><u>LinkedIn</u>.</a></p>
