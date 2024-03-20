@@ -8,9 +8,9 @@ Beyond my technical acumen, I harbor a genuine passion for the strategic potenti
 
 Some fun facts about me:
 
-🐕 I own a Cattle Dog.
-🚗 I've driven across America 6 times (I picked my pup up on one of them).
-🪨 My preferred form of exercise is rucking.
-🎯 My goal for 2024: land my (new) dream job in data!
+-🐕 I own a Cattle Dog.
+-🚗 I've driven across America 6 times (I picked my pup up on one of them).
+-🪨 My preferred form of exercise is rucking.
+-🎯 My goal for 2024: land my (new) dream job in data!
 
 Feel free to reach me on GitHub or 🔗<a href='www.linkedin.com/in/sara-kaempf' target=_blank><u>LinkedIn</u>.</a></p>
